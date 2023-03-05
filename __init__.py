@@ -26,7 +26,7 @@ How to use them:
 
 开源包，任何人都可以使用并修改！
 """
-from python_work.pygame_make.pgzero_template.pgzero_template.template import *
+from template import *
 
 __version__ = '1.0'
 __all__ = [
